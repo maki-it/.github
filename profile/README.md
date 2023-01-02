@@ -1,4 +1,4 @@
-<img src="https://maki-it.de/assets/images/logo.svg" alt="company logo" width="50%"/>
+<img src="https://maki-it.de/assets/img/logo.svg" alt="company logo" width="50%"/>
 
 
 ### Nice to meet you!
