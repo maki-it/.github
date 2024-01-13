@@ -1,0 +1,14 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+      "config:recommended"
+    ],
+    "timezone": "Europe/Berlin",
+    "labels": ["Kind/Dependency"],
+    "dependencyDashboard": true,
+    "dependencyDashboardTitle": "Dependency Dashboard",
+    "platformAutomerge": true,
+    "branchPrefix": "dependency/",
+    "reviewers": ["team:maintainer", "kimdre"]
+  }
+  
