@@ -1,0 +1,11 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+        "github>maki-it/.github//renovate-config:base",
+        "github>maki-it/.github//renovate-config:default-update-type-rules",
+        "github>maki-it/.github//renovate-config:default-schedules"
+    ],
+    "pip_requirements": {
+        "fileMatch": ["(^|/)Pipfile$", "(^|/)Pipfile.lock$"]
+    }
+}
