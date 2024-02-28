@@ -3,7 +3,7 @@ name: "\U0001F680 Feature Request"
 about: "I have a suggestion (and may want to implement it \U0001F642)!"
 title: ''
 labels: Kind/Feature
-assignees: 'team:maintainer'
+assignees: 'kimdre'
 body:
   - type: dropdown
     id: feature_type
