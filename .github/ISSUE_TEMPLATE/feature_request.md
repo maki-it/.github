@@ -13,7 +13,8 @@ body:
       options:
         - New Feature
         - Improvements to existing Feature
-
+    validations:
+      required: true
 ---
 **Describe the feature**
 Give a concise description of the feature request.
