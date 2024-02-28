@@ -1,9 +1,18 @@
 ---
 name: "\U0001F680 Feature Request"
-about: "I have a suggestion (and may want to implement it \U0001F642)!"
+description: "I have a suggestion (and may want to implement it \U0001F642)!"
 title: ''
 labels: Kind/Feature
-assignees: ''
+assignees: 'team:maintainer'
+body:
+  - type: dropdown
+    id: feature_type
+    attributes:
+      label: What is this feature request about?
+      multiple: false
+      options:
+        - New Feature
+        - Improvements to existing Feature
 
 ---
 **Describe the feature**
