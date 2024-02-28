@@ -1,6 +1,6 @@
 ---
 name: "\U0001F680 Feature Request"
-description: "I have a suggestion (and may want to implement it \U0001F642)!"
+about: "I have a suggestion (and may want to implement it \U0001F642)!"
 title: ''
 labels: Kind/Feature
 assignees: 'team:maintainer'
