@@ -1,0 +1,19 @@
+changelog:
+  categories:
+    - title: Breaking Changes 🚨
+      labels:
+        - Kind/Breaking
+        - breaking
+    - title: Changes
+      labels:
+        - "*"
+      exclude:
+        labels:
+          - Kind/Dependency
+          - dependencies
+          - Kind/Breaking
+          - breaking
+    - title: Dependencies 🛠
+      labels:
+        - Kind/Dependency
+        - dependencies
