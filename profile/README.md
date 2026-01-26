@@ -1,6 +1,3 @@
-<img src="https://maki-it.de/assets/img/logo.svg" alt="company logo" width="50%"/>
-
-
 ### Nice to meet you!
 
 We are a young and small Business from Germany which provides Web- and Mail Hosting as well as managed Services and Software Development for anyone on a very flexible Level.
