@@ -1,7 +1,7 @@
 <a href="https://maki-it.de">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maki-it/.github/main/profile/banner-dark.png">
-    <img src="https://raw.githubusercontent.com/maki-it/.github/main/profile/banner-light.png" alt="Maki IT: Websites, hosting and software, made to fit" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maki-it/.github/main/profile/banner-dark.svg">
+    <img src="https://raw.githubusercontent.com/maki-it/.github/main/profile/banner-light.svg" alt="Maki IT: Websites, hosting and software, made to fit" width="100%">
   </picture>
 </a>
 
