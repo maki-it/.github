@@ -1,10 +1,16 @@
-### Nice to meet you!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maki-it/.github/main/profile/banner-dark.png">
+  <img src="https://raw.githubusercontent.com/maki-it/.github/main/profile/banner-light.png" alt="Maki IT: Websites, hosting and software, made to fit" width="100%">
+</picture>
 
-We are a young and small Business from Germany which provides Web- and Mail Hosting as well as managed Services and Software Development for anyone on a very flexible Level.
-Our goal is to provide Support and Guidance to People and Businesses struggling to cope with the rapidly evolving digital World.
+## What we do
 
-Here we share some of our Tools, that are developed as free Alternatives to expensive SaaS Products, and other Projects open to the Public.
+- **Hosting:** web hosting including email hosting, application hosting and managed servers
+- **Websites:** concept, design and implementation
+- **Software:** development and automation, tailored to your workflows
 
-If you might have any Questions or Interest in working with us, you can contact us at kontakt@maki-it.de
+## Contact
 
-You can also check out our Website at https://maki-it.de/
+- Web: [maki-it.de](https://maki-it.de)
+- Email: [kontakt@maki-it.de](mailto:kontakt@maki-it.de)
+- Phone: +49 1575 300 17 39
