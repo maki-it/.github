@@ -5,11 +5,12 @@
 
 ## What we do
 
-- **Hosting:** web hosting including email hosting, application hosting and managed servers
-- **Websites:** concept, design and implementation
-- **Software:** development and automation, tailored to your workflows
+- <img src="https://raw.githubusercontent.com/maki-it/.github/main/profile/icons/hard-drives.svg" width="20" height="20" align="top"> **Hosting:** web and mail hosting, applications and managed servers
+- <img src="https://raw.githubusercontent.com/maki-it/.github/main/profile/icons/layout.svg" width="20" height="20" align="top"> **Websites:** concept, design and implementation
+- <img src="https://raw.githubusercontent.com/maki-it/.github/main/profile/icons/code.svg" width="20" height="20" align="top"> **Software:** development and automation, tailored to your workflows
 
 ## Contact
 
-- Web: [maki-it.de](https://maki-it.de)
-- Email: [kontakt@maki-it.de](mailto:kontakt@maki-it.de)
+- <img src="https://raw.githubusercontent.com/maki-it/.github/main/profile/icons/globe.svg" width="20" height="20" align="top"> Web: [maki-it.de](https://maki-it.de)
+- <img src="https://raw.githubusercontent.com/maki-it/.github/main/profile/icons/envelope.svg" width="20" height="20" align="top"> Email: [kontakt@maki-it.de](mailto:kontakt@maki-it.de)
+- <img src="https://raw.githubusercontent.com/maki-it/.github/main/profile/icons/map-pin.svg" width="20" height="20" align="top"> Location: Nuremberg, Germany
