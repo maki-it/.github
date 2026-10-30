@@ -13,4 +13,3 @@
 
 - Web: [maki-it.de](https://maki-it.de)
 - Email: [kontakt@maki-it.de](mailto:kontakt@maki-it.de)
-- Phone: +49 1575 300 17 39
